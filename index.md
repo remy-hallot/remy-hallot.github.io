@@ -16,7 +16,4 @@
 [Replacing EAV with JSONB in PostgreSQL](https://coussej.github.io/2016/01/14/Replacing-EAV-with-JSONB-in-PostgreSQL/)  
 [Gestion d'arbres par représentation intervallaire](https://sqlpro.developpez.com/cours/arborescence/#L3)  
 [Mac Setup](https://sourabhbajaj.com/mac-setup/)  
-
-
-
-
+[Mac Local Dev Environment](https://mallinson.ca/posts/5/the-perfect-web-development-environment-for-your-new-mac)
