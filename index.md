@@ -17,3 +17,4 @@
 [Gestion d'arbres par représentation intervallaire](https://sqlpro.developpez.com/cours/arborescence/#L3)  
 [Mac Setup](https://sourabhbajaj.com/mac-setup/)  
 [Mac Local Dev Environment](https://mallinson.ca/posts/5/the-perfect-web-development-environment-for-your-new-mac)
+[Should You Use char, varchar, or text in PostgreSQL?](https://maximorlov.com/char-varchar-text-postgresql/)
